@@ -10,7 +10,7 @@ Things I do besides coding:
 - walking this dog ⬇️
 
 
-<img align="center" src="https://github.com/marte1337/marte1337/blob/main/IMG_20210224_183654.jpg" alt="marte_1337" height="550"  />
+<img align="center" src="https://github.com/marte1337/marte1337/blob/main/IMG_20210224_183654.jpg" alt="picture of a dog" height="550"  />
 
 <br>
 
