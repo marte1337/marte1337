@@ -1,20 +1,23 @@
 
 <h1 align="center">Hi 👋, I'm Marte</h1>
-<h3 align="center">A musicologist turning into a developer.</h3>
-
-
-Things I do besides coding:
-
-- playing the guitar
-- giong out on a hike
-- walking this dog ⬇️
-
-
-<img align="center" src="https://github.com/marte1337/marte1337/blob/main/IMG_20210224_183654.jpg" alt="picture of a dog" height="550"  />
+<h2 align="center">A musicologist turning into a developer.</h2>
 
 <br>
 
- 🌱 I’m currently learning **react, vue, next.js**
+### 🌱 I’m currently learning **react, vue, next.js**
+ 
+<br>
+
+Things I do besides coding:
+
+- _playing_ the guitar
+- _cooking_ for my wife
+- _walking_ this little fella ⬇️
+
+
+<img align="center" src="https://github.com/marte1337/marte1337/blob/main/IMG_20210224_183654.jpg" alt="picture of a dog" height="500"  />
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 
