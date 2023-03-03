@@ -4,16 +4,7 @@
 <h3 align="center">Listen to your parents and don´t study something weird.</h3>
 <br>
 
-### 🌱 I’m currently learning **react, vue, next.js**
- 
-<br>
-
-Things I do besides coding:
-
-- _playing_ the guitar
-- _cooking_ for my wife
-- _walking_ this little fella ⬇️
-
+#### Check out my doggy:
 
 <img align="center" src="https://github.com/marte1337/marte1337/blob/main/IMG_20210224_183654.jpg" alt="picture of a dog" height="500"  />
 
