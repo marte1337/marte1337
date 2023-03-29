@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Marte</h1>
+<h1 align="center">Hi 👋, I'm Marte.</h1>
 <h2 align="center">A musicologist turned into developer.</h2>
 <h3 align="center">Listen to your parents and don´t study something weird.</h3>
 <br>
