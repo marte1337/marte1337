@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Marte</h1>
-<h2 align="center">A musicologist turning into a developer.</h2>
+<h2 align="center">A musicologist turned into developer.</h2>
 <h3 align="center">Listen to your parents and don´t study something weird.</h3>
 <br>
 
-#### Check out my doggy:
+#### Also check out my doggy:
 
 <img align="center" src="https://github.com/marte1337/marte1337/blob/main/IMG_20210224_183654.jpg" alt="picture of a dog" height="500"  />
 
