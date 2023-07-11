@@ -29,10 +29,6 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marte1337&show_icons=true&locale=en" alt="marte1337" /></p>
-
-<br>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marte1337&" alt="marte1337" /></p>
 
 <br>
