@@ -4,7 +4,7 @@
 <h3 align="center">Listen to your parents and don´t study something weird.</h3>
 <br>
 
-I'm mainly working over at GitLab these days.
+I'm mainly working with GitLab these days.
 
 #### Meanwhile check out my doggy:
 
