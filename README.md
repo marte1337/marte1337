@@ -9,17 +9,19 @@ Outside of work, I spend a lot of time exploring **C++ audio DSP, neural amp mod
 ### Things I'm building
 
 **HoldsworthEngine**  
-A NAM-based guitar amp and effects platform with custom C++ DSP, multi-delay and modulation, inspired by one of the defining guitarists of jazz fusion **Allan Holdsworth**.
+A NAM-based guitar amp and effects platform with custom C++ DSP, focused on **faithfully reconstructing the tools used in the signature sound of jazz fusion guitarist Allan Holdsworth**, including his distinctive multi-delay approach.
 
-**Realtime Guitar DSP Engine**  
-An experimental C++ real-time audio DSP platform, formerly *TechDeathMachine*. It combines neural amp modelling with custom tone shaping, dynamics, nonlinear processing, stereo effects and low-latency polyphonic pitch shifting.
+**Realtime Audio DSP Lab**  
+An experimental C++ real-time audio DSP platform and research playground for exploring guitar processing, neural amp modelling and modern DSP techniques. It combines custom tone shaping, dynamics, nonlinear processing, stereo effects and low-latency polyphonic pitch shifting.
 
 **Local Daily Briefing**  
 A local-AI-powered daily briefing system built with TypeScript, Ollama and local models. It collects, processes and summarizes sources such as Git activity, weather, general news and AI news into a structured daily email briefing.
 
 ### Main tools
 
-`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `C++` · `HTML` · `CSS/Sass` · `Tailwind` · `Git` · `Docker`
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `C++` · `HTML` · `CSS/Sass` · `Tailwind` · `Git` · `Docker` 
+
+Also some experience working with PHP and Java.
 
 ### Production work
 
