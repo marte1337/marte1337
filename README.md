@@ -1,38 +1,36 @@
+# Hi, I'm Marte 👋
 
-<h1 align="center">Hi 👋, I'm Marte.</h1>
-<h2 align="center">A musicologist turned developer.</h2>
-<h3 align="center">Listen to your parents and don´t study something weird.</h3>
-<br>
+**Musicologist turned full-time software developer.**
 
-I'm mainly working with GitLab these days.
+Professionally, I work on **large-scale web projects in the news publishing industry**, primarily using TypeScript and Next.js.
 
-#### Meanwhile check out my doggy:
+Outside of work, I spend a lot of time exploring **C++ audio DSP, neural amp modelling and local AI systems**.
 
-<img align="center" src="https://github.com/marte1337/marte1337/blob/main/IMG_20210224_183654.jpg" alt="picture of a dog" height="500"  />
+### Things I'm building
 
-<br>
+**HoldsworthEngine**  
+A NAM-based guitar amp and effects platform with custom C++ DSP, multi-delay and modulation, inspired by one of the defining guitarists of jazz fusion **Allan Holdsworth**.
 
-<h3 align="left">Connect with me:</h3>
+**Realtime Guitar DSP Engine**  
+An experimental C++ real-time audio DSP platform, formerly *TechDeathMachine*. It combines neural amp modelling with custom tone shaping, dynamics, nonlinear processing, stereo effects and low-latency polyphonic pitch shifting.
 
-<a href="https://instagram.com/marte_1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marte_1337" height="30" width="40" /></a>
+**Local Daily Briefing**  
+A local-AI-powered daily briefing system built with TypeScript, Ollama and local models. It collects, processes and summarizes sources such as Git activity, weather, general news and AI news into a structured daily email briefing.
 
-<h3 align="left">Languages and Tools:</h3>
+### Main tools
 
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-</p>
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `C++` · `HTML` · `CSS/Sass` · `Tailwind` · `Git` · `Docker`
 
-<br>
+### Production work
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marte1337&show_icons=true&locale=en&layout=compact" alt="marte1337" /></p>
+Beyond application development, I work with **paywall and subscription systems, consent/CMP tooling, community and engagement SDKs, analytics and data-layer integrations, backend APIs, authentication systems, and AI-powered features**.
 
-<br>
+And, when necessary, the less glamorous side of production software:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marte1337&" alt="marte1337" /></p>
+`AngularJS` · `Freemarker` · `Webpack` · legacy code & modernization
 
-<br>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marte1337&label=Profile%20views&color=0e75b6&style=flat" alt="marte1337" /> </p>
+Most of my professional work lives on **GitLab**, so GitHub only shows part of the story.
+
+And yes — I still have a musicology degree.
