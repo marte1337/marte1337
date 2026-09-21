@@ -23,7 +23,7 @@ A local-AI-powered daily briefing system built with TypeScript, Ollama and local
 
 ### Production work
 
-Beyond application development, I work with **paywall and subscription systems, consent/CMP tooling, community and engagement SDKs, analytics and data-layer integrations, backend APIs, authentication systems, and AI-powered features**.
+Beyond application development, my work includes **paywall and subscription integrations, consent/CMP tooling, community and engagement SDKs, analytics and data-layer integrations, backend APIs, authentication systems, and AI-powered feature integration**.
 
 And, when necessary, the less glamorous side of production software:
 
