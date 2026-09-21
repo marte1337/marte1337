@@ -18,7 +18,7 @@ An experimental C++ real-time audio DSP platform and research playground for exp
 A local-AI-powered daily briefing system built with TypeScript, Ollama and local models. It collects, processes and summarizes sources such as Git activity, weather, general news and AI news into a structured daily email briefing.
 
 **[Totally Zombified Chess](https://github.com/marte1337/capstone-project)**  
-A custom multiplayer chess variant built with Next.js, Chess.js and Pusher, featuring real-time matches, lobby and in-game chat, single-player play and game replays. Built entirely **without AI-assisted coding**.
+A custom multiplayer chess variant built with Next.js, Chess.js and Pusher, featuring real-time matches, lobby and in-game chat, single-player play and game replays. Built entirely without AI-assisted coding.
 
 ### Main tools
 
